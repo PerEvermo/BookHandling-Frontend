@@ -1,7 +1,8 @@
-# bookhandlingfrontend
+# BookHandling Frontend
 
-Frontend for BookHandling, backend can be found here:
+Frontend for BookHandling, backend and backend testing can be found here:
 https://github.com/PerEvermo/BookHandling-Backend
+https://github.com/PerEvermo/BookHandling-Backend.tests
 
 ## Project Setup
 
@@ -14,3 +15,11 @@ npm install
 ```sh
 npm run dev
 ```
+
+### Run frontend testing
+
+```sh
+vitest
+```
+
+Frontend runs at http://localhost:5173.
