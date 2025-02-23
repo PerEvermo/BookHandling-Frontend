@@ -1,6 +1,6 @@
 <template>
   <div class="bg-white p-6 rounded-lg shadow-md">
-    <h1 class="text-3xl font-bold text-blue-900 pb-4 mb-4">Hantera Böcker</h1>
+    <h1 class="text-3xl font-bold text-blue-900 pb-4 mb-4">Hantera böcker</h1>
 
     <table class="w-full border-collapse border border-gray-300 shadow-sm">
       <thead class="bg-blue-900 text-white">
